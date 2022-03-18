@@ -1,0 +1,11 @@
+﻿string myName = "Morgan";
+int myAge = 22;
+char lastNameInit = 'F';
+double specificAge = 22.125;
+decimal myBirthday = 2.02m;
+bool Pizza = true;
+bool Blue = false; 
+Console.WriteLine($"My name is {myName} {lastNameInit}.");
+Console.WriteLine($"I am {myAge} years old, more specifically {specificAge} years old.");
+Console.WriteLine($"My Birthday is {myBirthday}");
+Console.WriteLine($"True or False: My favorite food is Pizza = {Pizza}; My favorite color is Blue = {Blue}");

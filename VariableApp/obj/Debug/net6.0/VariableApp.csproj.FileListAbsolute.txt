@@ -1,0 +1,15 @@
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\bin\Debug\net6.0\VariableApp.exe
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\bin\Debug\net6.0\VariableApp.deps.json
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\bin\Debug\net6.0\VariableApp.runtimeconfig.json
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\bin\Debug\net6.0\VariableApp.dll
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\bin\Debug\net6.0\VariableApp.pdb
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\obj\Debug\net6.0\VariableApp.csproj.AssemblyReference.cache
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\obj\Debug\net6.0\VariableApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\obj\Debug\net6.0\VariableApp.AssemblyInfoInputs.cache
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\obj\Debug\net6.0\VariableApp.AssemblyInfo.cs
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\obj\Debug\net6.0\VariableApp.csproj.CoreCompileInputs.cache
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\obj\Debug\net6.0\VariableApp.dll
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\obj\Debug\net6.0\refint\VariableApp.dll
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\obj\Debug\net6.0\VariableApp.pdb
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\obj\Debug\net6.0\VariableApp.genruntimeconfig.cache
+C:\Users\Morgan\Desktop\Repos\VariableApp\VariableApp\obj\Debug\net6.0\ref\VariableApp.dll
